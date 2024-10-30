@@ -1,4 +1,4 @@
-# FiveM-TypeScript
+# Base-TypeScript-FiveM
 easy to use just type
 ## npm i 
 this will install everything needed for fivem coding. 
